@@ -10,6 +10,7 @@ import Foundation
 
 func testFunc() {
     var test = 10
+    var test2 = 10
 }
 
 func percent(_ number: Double) -> Double {
