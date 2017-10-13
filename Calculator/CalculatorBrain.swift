@@ -8,6 +8,10 @@
 
 import Foundation
 
+func testFunc() {
+    var test = 10
+}
+
 func percent(_ number: Double) -> Double {
     return number * 0.01
 }
